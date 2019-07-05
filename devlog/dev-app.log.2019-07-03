@@ -1,0 +1,532 @@
+11:53:35 AM - info: Starting application
+11:53:35 AM - info: Initializing web server module
+11:53:35 AM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+11:53:35 AM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+11:53:35 AM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+11:53:59 AM - info: Received request for landscapes/list.
+11:53:59 AM - info: Received request for app options.
+11:53:59 AM - info: Received request for landscapes/list.
+11:53:59 AM - info: Received request for app options.
+11:53:59 AM - info: Received request for dashboard.
+11:53:59 AM - info: Received request for landscapes/list.
+11:53:59 AM - info: Received request for /components/list.
+11:53:59 AM - info: Received socket connection.
+11:53:59 AM - info: Received request to check all components.
+11:53:59 AM - info: Running Website check BBC.
+11:53:59 AM - info: Running Website check Google Website.
+11:53:59 AM - info: Running Website check Sky Website.
+11:53:59 AM - info: Running Website check Google Website.
+11:53:59 AM - info: Running Website check Google Website.
+11:53:59 AM - info: Running Website check Google Website.
+11:53:59 AM - info: Running WebService check Penguin.
+11:53:59 AM - info: Called Google Website check.  Response code 200.  Response time 511ms.
+11:53:59 AM - info: Called Google Website check.  Response code 200.  Response time 516ms.
+11:53:59 AM - info: Called Google Website check.  Response code 200.  Response time 522ms.
+11:53:59 AM - info: Called Google Website check.  Response code 200.  Response time 524ms.
+11:54:01 AM - info:     Called Google Server.  Response Code : 500.  Response Time : 2024.
+11:54:01 AM - info: Called Google Server check.  Response code 500.  Response time 2024ms.
+11:54:03 AM - info: Called Penguin check.  Response code 200.  Response time 3910ms.
+11:54:04 AM - info: Called Sky Website check.  Response code 200.  Response time 4757ms.
+11:54:05 AM - info: Called BBC check.  Response code 200.  Response time 6197ms.
+12:00:49 PM - info: Received socket connection.
+12:01:13 PM - info: Received request for landscapes/list.
+12:01:13 PM - info: Received request for landscapes/list.
+12:01:13 PM - info: Received request for app options.
+12:01:13 PM - info: Received request for landscapes/list.
+12:01:13 PM - info: Received request for dashboard.
+12:01:13 PM - info: Received request for /components/list.
+12:01:13 PM - info: Received request for app options.
+12:01:13 PM - info: Received request to check all components.
+12:01:13 PM - info: Running Website check BBC.
+12:01:13 PM - info: Running Website check Google Website.
+12:01:13 PM - info: Running Website check Sky Website.
+12:01:13 PM - info: Running Website check Google Website.
+12:01:13 PM - info: Running Website check Google Website.
+12:01:13 PM - info: Running Website check Google Website.
+12:01:13 PM - info: Running WebService check Penguin.
+12:01:13 PM - info: Received socket connection.
+12:01:14 PM - info: Called Google Website check.  Response code 200.  Response time 133ms.
+12:01:14 PM - info: Called Google Website check.  Response code 200.  Response time 133ms.
+12:01:14 PM - info: Called Google Website check.  Response code 200.  Response time 139ms.
+12:01:14 PM - info: Called Google Website check.  Response code 200.  Response time 140ms.
+12:01:15 PM - info: Called Sky Website check.  Response code 200.  Response time 1141ms.
+12:01:15 PM - info:     Called Google Server.  Response Code : 500.  Response Time : 2019.
+12:01:15 PM - info: Called Google Server check.  Response code 500.  Response time 2019ms.
+12:01:16 PM - info: Called Penguin check.  Response code 200.  Response time 2701ms.
+12:01:20 PM - info: Called BBC check.  Response code 200.  Response time 6218ms.
+12:01:31 PM - info: Starting application
+12:01:31 PM - info: Initializing web server module
+12:01:31 PM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+12:01:31 PM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+12:01:31 PM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+12:01:35 PM - info: Received socket connection.
+12:01:37 PM - info: Received request for landscapes/list.
+12:01:37 PM - info: Received request for app options.
+12:01:37 PM - info: Received request for landscapes/list.
+12:01:37 PM - info: Received request for app options.
+12:01:37 PM - info: Received request for landscapes/list.
+12:01:37 PM - info: Received request for dashboard.
+12:01:37 PM - info: Received request for /components/list.
+12:01:38 PM - info: Received request to check all components.
+12:01:38 PM - info: Running Website check Western Union GCC.
+12:01:38 PM - info: Running Website check Campaign Details.
+12:01:38 PM - info: Running Website check Delivery URL.
+12:01:38 PM - info: Running Website check Google Website.
+12:01:38 PM - info: Running Website check Google Website.
+12:01:38 PM - info: Running Website check Google Website.
+12:01:38 PM - info: Running WebService check Penguin.
+12:01:38 PM - info: Received socket connection.
+12:01:38 PM - info: Called Google Website check.  Response code 200.  Response time 233ms.
+12:01:38 PM - info: Called Google Website check.  Response code 200.  Response time 235ms.
+12:01:38 PM - info: Called Google Website check.  Response code 200.  Response time 241ms.
+12:01:40 PM - info:     Called Google Server.  Response Code : 500.  Response Time : 2026.
+12:01:40 PM - info: Called Google Server check.  Response code 500.  Response time 2026ms.
+12:01:41 PM - error: Error - Called Delivery URL check.  Response code 405 - "<html><head><title>Apache Tomcat/7.0.68 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 405 - Request method 'GET' not supported</h1><HR size=\"1\" noshade=\"noshade\"><p><b>type</b> Status report</p><p><b>message</b> <u>Request method 'GET' not supported</u></p><p><b>description</b> <u>The specified HTTP method is not allowed for the requested resource.</u></p><HR size=\"1\" noshade=\"noshade\"><h3>Apache Tomcat/7.0.68</h3></body></html>".  Response time 3169ms.
+12:01:41 PM - error: Error - Called Campaign Details check.  Response code 400 - "<html><head><title>Apache Tomcat/7.0.68 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'aliasId' is not present</h1><HR size=\"1\" noshade=\"noshade\"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'aliasId' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size=\"1\" noshade=\"noshade\"><h3>Apache Tomcat/7.0.68</h3></body></html>".  Response time 3170ms.
+12:01:41 PM - info: Called Penguin check.  Response code 200.  Response time 3168ms.
+12:01:41 PM - info: Called Western Union GCC check.  Response code 200.  Response time 3516ms.
+12:03:43 PM - info: Starting application
+12:03:43 PM - info: Initializing web server module
+12:03:43 PM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+12:03:43 PM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+12:03:43 PM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+12:03:43 PM - info: Received socket connection.
+12:03:49 PM - info: Received request for landscapes/list.
+12:03:49 PM - info: Received request for app options.
+12:03:49 PM - info: Received request for landscapes/list.
+12:03:49 PM - info: Received request for app options.
+12:03:49 PM - info: Received request for dashboard.
+12:03:49 PM - info: Received request for /components/list.
+12:03:49 PM - info: Received request for landscapes/list.
+12:03:49 PM - info: Received socket connection.
+12:03:49 PM - info: Received request to check all components.
+12:03:49 PM - info: Running Website check Western Union GCC.
+12:03:49 PM - info: Running Website check Campaign Details.
+12:03:49 PM - info: Running Website check Delivery URL.
+12:03:49 PM - info: Running Website check Google Website.
+12:03:49 PM - info: Running Website check Google Website.
+12:03:49 PM - info: Running Website check Google Website.
+12:03:49 PM - info: Running WebService check Penguin.
+12:03:49 PM - info: Called Google Website check.  Response code 200.  Response time 208ms.
+12:03:49 PM - info: Called Google Website check.  Response code 200.  Response time 221ms.
+12:03:49 PM - info: Called Google Website check.  Response code 200.  Response time 229ms.
+12:03:51 PM - info:     Called Google Server.  Response Code : 500.  Response Time : 2022.
+12:03:51 PM - info: Called Google Server check.  Response code 500.  Response time 2022ms.
+12:03:51 PM - info: Called Campaign Details check.  Response code 200.  Response time 2522ms.
+12:03:51 PM - info: Called Western Union GCC check.  Response code 200.  Response time 2531ms.
+12:03:51 PM - info: Called Delivery URL check.  Response code 200.  Response time 2523ms.
+12:03:53 PM - info: Called Penguin check.  Response code 200.  Response time 3864ms.
+12:05:14 PM - info: Starting application
+12:05:14 PM - info: Initializing web server module
+12:05:14 PM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+12:05:14 PM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+12:05:14 PM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+12:05:15 PM - info: Received socket connection.
+12:05:19 PM - info: Received request for landscapes/list.
+12:05:19 PM - info: Received request for app options.
+12:05:19 PM - info: Received request for landscapes/list.
+12:05:19 PM - info: Received request for app options.
+12:05:19 PM - info: Received request for dashboard.
+12:05:19 PM - info: Received request for landscapes/list.
+12:05:19 PM - info: Received request for /components/list.
+12:05:19 PM - info: Received socket connection.
+12:05:19 PM - info: Received request to check all components.
+12:05:19 PM - info: Running Website check Western Union GCC.
+12:05:19 PM - info: Running Website check Campaign Details.
+12:05:19 PM - info: Running Website check Delivery URL.
+12:05:19 PM - info: Running Website check Google Website.
+12:05:19 PM - info: Running Website check Google Website.
+12:05:19 PM - info: Running Website check Google Website.
+12:05:19 PM - info: Running WebService check Penguin.
+12:05:19 PM - info: Called Google Website check.  Response code 200.  Response time 125ms.
+12:05:19 PM - info: Called Google Website check.  Response code 200.  Response time 142ms.
+12:05:19 PM - info: Called Google Website check.  Response code 200.  Response time 145ms.
+12:05:21 PM - info:     Called Google Server.  Response Code : 500.  Response Time : 2016.
+12:05:21 PM - info: Called Google Server check.  Response code 500.  Response time 2016ms.
+12:05:22 PM - info: Called Delivery URL check.  Response code 200.  Response time 3002ms.
+12:05:22 PM - info: Called Campaign Details check.  Response code 200.  Response time 3003ms.
+12:05:22 PM - info: Called Western Union GCC check.  Response code 200.  Response time 3011ms.
+12:05:22 PM - info: Called Penguin check.  Response code 200.  Response time 3277ms.
+12:05:58 PM - info: Starting application
+12:05:58 PM - info: Initializing web server module
+12:05:58 PM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+12:05:58 PM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+12:05:58 PM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+12:06:01 PM - info: Received socket connection.
+12:06:03 PM - info: Received request for landscapes/list.
+12:06:03 PM - info: Received request for app options.
+12:06:03 PM - info: Received request for landscapes/list.
+12:06:03 PM - info: Received request for app options.
+12:06:03 PM - info: Received request for dashboard.
+12:06:03 PM - info: Received request for /components/list.
+12:06:03 PM - info: Received request for landscapes/list.
+12:06:03 PM - info: Received socket connection.
+12:06:03 PM - info: Received request to check all components.
+12:06:03 PM - info: Running Website check Western Union GCC.
+12:06:03 PM - info: Running Website check Campaign Details.
+12:06:03 PM - info: Running Website check Delivery URL.
+12:06:03 PM - info: Running Website check Google Website.
+12:06:03 PM - info: Running Website check Google Website.
+12:06:03 PM - info: Running Website check Google Website.
+12:06:03 PM - info: Running WebService check Penguin.
+12:06:03 PM - info: Called Google Website check.  Response code 200.  Response time 131ms.
+12:06:03 PM - info: Called Google Website check.  Response code 200.  Response time 134ms.
+12:06:03 PM - info: Called Google Website check.  Response code 200.  Response time 141ms.
+12:06:05 PM - info:     Called Google Server.  Response Code : 500.  Response Time : 2013.
+12:06:05 PM - info: Called Google Server check.  Response code 500.  Response time 2013ms.
+12:06:06 PM - info: Called Penguin check.  Response code 200.  Response time 3199ms.
+12:06:06 PM - info: Called Campaign Details check.  Response code 200.  Response time 3432ms.
+12:06:06 PM - info: Called Western Union GCC check.  Response code 200.  Response time 3439ms.
+12:06:07 PM - info: Called Delivery URL check.  Response code 200.  Response time 3715ms.
+12:06:14 PM - info: Received request for app options.
+12:06:14 PM - info: Received request for landscapes/list.
+12:06:14 PM - info: Received request for /components/list.
+12:06:14 PM - info: Received request for app options.
+12:06:14 PM - info: Received request to check all components.
+12:06:14 PM - info: Running Website check Western Union GCC.
+12:06:14 PM - info: Running Website check Campaign Details.
+12:06:14 PM - info: Running Website check Delivery URL.
+12:06:14 PM - info: Running Website check Google Website.
+12:06:14 PM - info: Running Website check Google Website.
+12:06:14 PM - info: Running Website check Google Website.
+12:06:14 PM - info: Running WebService check Penguin.
+12:06:14 PM - info: Received socket connection.
+12:06:14 PM - info: Called Google Website check.  Response code 200.  Response time 326ms.
+12:06:14 PM - info: Called Google Website check.  Response code 200.  Response time 343ms.
+12:06:14 PM - info: Called Google Website check.  Response code 200.  Response time 358ms.
+12:06:15 PM - info: Called Delivery URL check.  Response code 200.  Response time 689ms.
+12:06:15 PM - info: Called Western Union GCC check.  Response code 200.  Response time 704ms.
+12:06:15 PM - info: Called Campaign Details check.  Response code 200.  Response time 900ms.
+12:06:16 PM - info:     Called Google Server.  Response Code : 500.  Response Time : 2010.
+12:06:16 PM - info: Called Google Server check.  Response code 500.  Response time 2010ms.
+12:06:17 PM - info: Called Penguin check.  Response code 200.  Response time 3141ms.
+12:06:26 PM - info: Received request for app options.
+12:06:26 PM - info: Received request for landscapes/list.
+12:06:26 PM - info: Received request to run check components/id/0.
+12:06:26 PM - info: Running Website check Western Union GCC.
+12:06:26 PM - info: Received request for app options.
+12:06:26 PM - info: Received socket connection.
+12:06:28 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1845ms.
+12:06:31 PM - info: Received request for app options.
+12:06:31 PM - info: Received request for landscapes/list.
+12:06:31 PM - info: Received request to run check components/id/1.
+12:06:31 PM - info: Running Website check Campaign Details.
+12:06:31 PM - info: Received request to run check components/id/2.
+12:06:31 PM - info: Running Website check Delivery URL.
+12:06:31 PM - info: Received request for app options.
+12:06:31 PM - info: Received socket connection.
+12:06:33 PM - info: Called Campaign Details check.  Response code 200.  Response time 1984ms.
+12:06:33 PM - info: Called Delivery URL check.  Response code 200.  Response time 1983ms.
+12:06:40 PM - info: Received request for app options.
+12:06:40 PM - info: Received request for landscapes/list.
+12:06:40 PM - info: Received request to run check components/id/0.
+12:06:40 PM - info: Running Website check Western Union GCC.
+12:06:40 PM - info: Received request for app options.
+12:06:40 PM - info: Received socket connection.
+12:06:41 PM - info: Received request for app options.
+12:06:41 PM - info: Received request for landscapes/list.
+12:06:41 PM - info: Received request for app options.
+12:06:41 PM - info: Received request for /components/list.
+12:06:41 PM - info: Received socket connection.
+12:06:41 PM - info: Received request to check all components.
+12:06:41 PM - info: Running Website check Western Union GCC.
+12:06:41 PM - info: Running Website check Campaign Details.
+12:06:41 PM - info: Running Website check Delivery URL.
+12:06:41 PM - info: Running Website check Google Website.
+12:06:41 PM - info: Running Website check Google Website.
+12:06:41 PM - info: Running Website check Google Website.
+12:06:41 PM - info: Running WebService check Penguin.
+12:06:41 PM - info: Called Google Website check.  Response code 200.  Response time 120ms.
+12:06:41 PM - info: Called Google Website check.  Response code 200.  Response time 136ms.
+12:06:41 PM - info: Called Google Website check.  Response code 200.  Response time 143ms.
+12:06:41 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1731ms.
+12:06:42 PM - info: Called Campaign Details check.  Response code 200.  Response time 859ms.
+12:06:42 PM - info: Called Western Union GCC check.  Response code 200.  Response time 860ms.
+12:06:42 PM - info: Called Delivery URL check.  Response code 200.  Response time 861ms.
+12:06:43 PM - info:     Called Google Server.  Response Code : 500.  Response Time : 2011.
+12:06:43 PM - info: Called Google Server check.  Response code 500.  Response time 2011ms.
+12:06:44 PM - info: Called Penguin check.  Response code 200.  Response time 3093ms.
+12:08:01 PM - info: Starting application
+12:08:01 PM - info: Initializing web server module
+12:08:01 PM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+12:08:01 PM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+12:08:01 PM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+12:08:02 PM - info: Received socket connection.
+12:08:02 PM - info: Received socket connection.
+12:08:03 PM - info: Received socket connection.
+12:08:03 PM - info: Received socket connection.
+12:08:04 PM - info: Received socket connection.
+12:08:05 PM - info: Received socket connection.
+12:08:09 PM - info: Received request for app options.
+12:08:09 PM - info: Received request for landscapes/list.
+12:08:09 PM - info: Received request for dashboard.
+12:08:09 PM - info: Received request for /components/list.
+12:08:09 PM - info: Received request for app options.
+12:08:09 PM - info: Received request for landscapes/list.
+12:08:09 PM - info: Received request to check all components.
+12:08:09 PM - info: Running Website check Western Union GCC.
+12:08:09 PM - info: Running Website check Campaign Details.
+12:08:09 PM - info: Running Website check Delivery URL.
+12:08:09 PM - info: Received socket connection.
+12:08:12 PM - info: Called Delivery URL check.  Response code 200.  Response time 3481ms.
+12:08:12 PM - info: Called Campaign Details check.  Response code 200.  Response time 3484ms.
+12:08:13 PM - info: Called Western Union GCC check.  Response code 200.  Response time 4597ms.
+12:13:38 PM - info: Received socket connection.
+12:13:38 PM - info: Received socket connection.
+12:13:38 PM - info: Received socket connection.
+12:13:38 PM - info: Received socket connection.
+12:13:38 PM - info: Received socket connection.
+12:14:59 PM - info: Received request for app options.
+12:14:59 PM - info: Received request for landscapes/list.
+12:14:59 PM - info: Received request for /components/list.
+12:14:59 PM - info: Received request for app options.
+12:14:59 PM - info: Received request to check all components.
+12:14:59 PM - info: Running Website check Western Union GCC.
+12:14:59 PM - info: Running Website check Campaign Details.
+12:14:59 PM - info: Running Website check Delivery URL.
+12:14:59 PM - info: Received socket connection.
+12:15:00 PM - info: Called Campaign Details check.  Response code 200.  Response time 1387ms.
+12:15:00 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1395ms.
+12:15:01 PM - info: Called Delivery URL check.  Response code 200.  Response time 1694ms.
+12:18:01 PM - info: Running scheduled checks
+12:18:01 PM - info: Running Website check Western Union GCC.
+12:18:01 PM - info: Running Website check Campaign Details.
+12:18:01 PM - info: Running Website check Delivery URL.
+12:18:02 PM - info: Called Campaign Details check.  Response code 200.  Response time 836ms.
+12:18:02 PM - info: Called Delivery URL check.  Response code 200.  Response time 845ms.
+12:18:03 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1495ms.
+12:28:01 PM - info: Running scheduled checks
+12:28:01 PM - info: Running Website check Western Union GCC.
+12:28:01 PM - info: Running Website check Campaign Details.
+12:28:01 PM - info: Running Website check Delivery URL.
+12:28:02 PM - info: Called Campaign Details check.  Response code 200.  Response time 859ms.
+12:28:02 PM - info: Called Delivery URL check.  Response code 200.  Response time 859ms.
+12:28:03 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1165ms.
+12:38:01 PM - info: Running scheduled checks
+12:38:01 PM - info: Running Website check Western Union GCC.
+12:38:01 PM - info: Running Website check Campaign Details.
+12:38:01 PM - info: Running Website check Delivery URL.
+12:38:02 PM - info: Called Western Union GCC check.  Response code 200.  Response time 832ms.
+12:38:02 PM - info: Called Delivery URL check.  Response code 200.  Response time 832ms.
+12:38:02 PM - info: Called Campaign Details check.  Response code 200.  Response time 832ms.
+12:40:02 PM - info: Received socket connection.
+12:40:02 PM - info: Received socket connection.
+12:40:02 PM - info: Received socket connection.
+12:40:02 PM - info: Received socket connection.
+12:40:02 PM - info: Received socket connection.
+12:40:02 PM - info: Received socket connection.
+12:40:32 PM - info: Received socket connection.
+12:40:32 PM - info: Received socket connection.
+12:41:27 PM - info: Received socket connection.
+12:41:27 PM - info: Received socket connection.
+12:41:27 PM - info: Received socket connection.
+12:41:27 PM - info: Received socket connection.
+12:41:27 PM - info: Received socket connection.
+12:41:27 PM - info: Received socket connection.
+12:41:57 PM - info: Received socket connection.
+12:41:57 PM - info: Received socket connection.
+12:42:27 PM - info: Received socket connection.
+12:42:27 PM - info: Received socket connection.
+12:42:27 PM - info: Received socket connection.
+12:42:27 PM - info: Received socket connection.
+12:42:27 PM - info: Received socket connection.
+12:42:27 PM - info: Received socket connection.
+12:42:57 PM - info: Received socket connection.
+12:42:57 PM - info: Received socket connection.
+12:43:55 PM - info: Received socket connection.
+12:43:56 PM - info: Received socket connection.
+12:43:56 PM - info: Received socket connection.
+12:43:56 PM - info: Received socket connection.
+12:43:56 PM - info: Received socket connection.
+12:43:56 PM - info: Received socket connection.
+12:43:56 PM - info: Received socket connection.
+12:43:56 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:44:55 PM - info: Received socket connection.
+12:45:27 PM - info: Received socket connection.
+12:45:57 PM - info: Received socket connection.
+12:45:57 PM - info: Received socket connection.
+12:45:57 PM - info: Received socket connection.
+12:45:57 PM - info: Received socket connection.
+12:45:57 PM - info: Received socket connection.
+12:45:57 PM - info: Received socket connection.
+12:45:57 PM - info: Received socket connection.
+12:46:27 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:47:27 PM - info: Received socket connection.
+12:47:57 PM - info: Received socket connection.
+12:47:57 PM - info: Received socket connection.
+12:47:57 PM - info: Received socket connection.
+12:47:57 PM - info: Received socket connection.
+12:47:57 PM - info: Received socket connection.
+12:47:57 PM - info: Received socket connection.
+12:47:57 PM - info: Received socket connection.
+12:48:01 PM - info: Running scheduled checks
+12:48:01 PM - info: Running Website check Western Union GCC.
+12:48:01 PM - info: Running Website check Campaign Details.
+12:48:01 PM - info: Running Website check Delivery URL.
+12:48:02 PM - info: Called Western Union GCC check.  Response code 200.  Response time 882ms.
+12:48:02 PM - info: Called Delivery URL check.  Response code 200.  Response time 889ms.
+12:48:02 PM - info: Called Campaign Details check.  Response code 200.  Response time 890ms.
+12:48:53 PM - info: Received socket connection.
+12:49:23 PM - info: Received socket connection.
+12:49:23 PM - info: Received socket connection.
+12:49:23 PM - info: Received socket connection.
+12:49:23 PM - info: Received socket connection.
+12:49:23 PM - info: Received socket connection.
+12:49:24 PM - info: Received socket connection.
+12:49:24 PM - info: Received socket connection.
+12:49:54 PM - info: Received socket connection.
+12:50:23 PM - info: Received socket connection.
+12:50:23 PM - info: Received socket connection.
+12:50:23 PM - info: Received socket connection.
+12:50:23 PM - info: Received socket connection.
+12:50:23 PM - info: Received socket connection.
+12:50:24 PM - info: Received socket connection.
+12:50:24 PM - info: Received socket connection.
+12:50:53 PM - info: Received socket connection.
+12:51:23 PM - info: Received socket connection.
+12:51:23 PM - info: Received socket connection.
+12:51:23 PM - info: Received socket connection.
+12:51:23 PM - info: Received socket connection.
+12:51:23 PM - info: Received socket connection.
+12:51:23 PM - info: Received socket connection.
+12:51:23 PM - info: Received socket connection.
+12:51:53 PM - info: Received socket connection.
+12:52:23 PM - info: Received socket connection.
+12:52:23 PM - info: Received socket connection.
+12:52:23 PM - info: Received socket connection.
+12:52:23 PM - info: Received socket connection.
+12:52:23 PM - info: Received socket connection.
+12:52:23 PM - info: Received socket connection.
+12:52:24 PM - info: Received socket connection.
+12:52:54 PM - info: Received socket connection.
+12:53:49 PM - info: Received socket connection.
+12:53:50 PM - info: Received socket connection.
+12:53:50 PM - info: Received socket connection.
+12:53:50 PM - info: Received socket connection.
+12:53:50 PM - info: Received socket connection.
+12:53:50 PM - info: Received socket connection.
+12:53:50 PM - info: Received socket connection.
+12:54:45 PM - info: Received socket connection.
+12:55:15 PM - info: Received socket connection.
+12:55:15 PM - info: Received socket connection.
+12:55:15 PM - info: Received socket connection.
+12:55:15 PM - info: Received socket connection.
+12:55:15 PM - info: Received socket connection.
+12:55:15 PM - info: Received socket connection.
+12:55:15 PM - info: Received socket connection.
+12:55:45 PM - info: Received socket connection.
+12:56:41 PM - info: Received socket connection.
+12:56:41 PM - info: Received socket connection.
+12:56:41 PM - info: Received socket connection.
+12:56:41 PM - info: Received socket connection.
+12:56:41 PM - info: Received socket connection.
+12:56:41 PM - info: Received socket connection.
+12:56:41 PM - info: Received socket connection.
+12:58:01 PM - info: Running scheduled checks
+12:58:01 PM - info: Running Website check Western Union GCC.
+12:58:01 PM - info: Running Website check Campaign Details.
+12:58:01 PM - info: Running Website check Delivery URL.
+12:58:02 PM - info: Called Campaign Details check.  Response code 200.  Response time 842ms.
+12:58:02 PM - info: Called Western Union GCC check.  Response code 200.  Response time 844ms.
+12:58:02 PM - info: Called Delivery URL check.  Response code 200.  Response time 850ms.
+1:02:15 PM - info: Received socket connection.
+1:02:15 PM - info: Received socket connection.
+1:02:15 PM - info: Received socket connection.
+1:02:15 PM - info: Received socket connection.
+1:02:15 PM - info: Received socket connection.
+1:02:16 PM - info: Received socket connection.
+1:02:16 PM - info: Received socket connection.
+1:02:16 PM - info: Received socket connection.
+1:03:38 PM - info: Received socket connection.
+1:03:38 PM - info: Received socket connection.
+1:03:38 PM - info: Received socket connection.
+1:03:38 PM - info: Received socket connection.
+1:03:38 PM - info: Received socket connection.
+1:06:44 PM - info: Received socket connection.
+1:06:44 PM - info: Received socket connection.
+1:06:44 PM - info: Received socket connection.
+1:07:14 PM - info: Received socket connection.
+1:07:14 PM - info: Received socket connection.
+1:07:14 PM - info: Received socket connection.
+1:07:14 PM - info: Received socket connection.
+1:07:14 PM - info: Received socket connection.
+1:07:44 PM - info: Received socket connection.
+1:07:44 PM - info: Received socket connection.
+1:07:45 PM - info: Received socket connection.
+1:08:01 PM - info: Running scheduled checks
+1:08:01 PM - info: Running Website check Western Union GCC.
+1:08:01 PM - info: Running Website check Campaign Details.
+1:08:01 PM - info: Running Website check Delivery URL.
+1:08:02 PM - info: Called Campaign Details check.  Response code 200.  Response time 903ms.
+1:08:02 PM - info: Called Western Union GCC check.  Response code 200.  Response time 907ms.
+1:08:02 PM - info: Called Delivery URL check.  Response code 200.  Response time 916ms.
+1:08:43 PM - info: Received socket connection.
+1:08:43 PM - info: Received socket connection.
+1:08:43 PM - info: Received socket connection.
+1:08:43 PM - info: Received socket connection.
+1:08:43 PM - info: Received socket connection.
+1:08:43 PM - info: Received socket connection.
+1:08:43 PM - info: Received socket connection.
+1:08:43 PM - info: Received socket connection.
+1:09:40 PM - info: Received socket connection.
+1:09:40 PM - info: Received socket connection.
+1:09:40 PM - info: Received socket connection.
+1:09:40 PM - info: Received socket connection.
+1:09:40 PM - info: Received socket connection.
+1:09:40 PM - info: Received socket connection.
+1:09:40 PM - info: Received socket connection.
+1:09:41 PM - info: Received socket connection.
+1:10:12 PM - info: Received socket connection.
+1:10:12 PM - info: Received socket connection.
+1:10:42 PM - info: Received socket connection.
+1:10:42 PM - info: Received socket connection.
+1:10:42 PM - info: Received socket connection.
+1:10:42 PM - info: Received socket connection.
+1:10:42 PM - info: Received socket connection.
+1:10:42 PM - info: Received socket connection.
+1:11:12 PM - info: Received socket connection.
+1:11:12 PM - info: Received socket connection.
+1:11:42 PM - info: Received socket connection.
+1:11:42 PM - info: Received socket connection.
+1:11:42 PM - info: Received socket connection.
+1:11:42 PM - info: Received socket connection.
+1:11:42 PM - info: Received socket connection.
+1:11:42 PM - info: Received socket connection.
+1:12:12 PM - info: Received socket connection.
+1:12:12 PM - info: Received socket connection.
+1:12:42 PM - info: Received socket connection.
+1:12:42 PM - info: Received socket connection.
+1:12:42 PM - info: Received socket connection.
+1:12:42 PM - info: Received socket connection.
+1:12:42 PM - info: Received socket connection.
+1:12:42 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.
+1:14:37 PM - info: Received socket connection.

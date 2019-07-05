@@ -1,0 +1,94 @@
+12:03:47 AM - info: Running scheduled checks
+12:03:47 AM - info: Running Website check Western Union GCC.
+12:03:47 AM - info: Running Website check Campaign Details.
+12:03:47 AM - info: Running Website check Delivery URL.
+12:03:52 AM - info: Called Western Union GCC check.  Response code 200.  Response time 4953ms.
+12:03:53 AM - info: Called Delivery URL check.  Response code 200.  Response time 5882ms.
+12:03:53 AM - info: Called Campaign Details check.  Response code 200.  Response time 5884ms.
+2:13:43 AM - info: Running scheduled checks
+2:13:43 AM - info: Running Website check Western Union GCC.
+2:13:43 AM - info: Running Website check Campaign Details.
+2:13:43 AM - info: Running Website check Delivery URL.
+2:13:44 AM - info: Called Western Union GCC check.  Response code 200.  Response time 876ms.
+2:13:44 AM - info: Called Delivery URL check.  Response code 200.  Response time 854ms.
+2:13:44 AM - info: Called Campaign Details check.  Response code 200.  Response time 857ms.
+4:06:30 AM - info: Running scheduled checks
+4:06:30 AM - info: Running Website check Western Union GCC.
+4:06:30 AM - info: Running Website check Campaign Details.
+4:06:30 AM - info: Running Website check Delivery URL.
+4:06:40 AM - error: Error - Called Western Union GCC check.  Response code Error: ETIMEDOUT.  Response time 10197ms.
+4:06:40 AM - error: Error - Called Campaign Details check.  Response code Error: ETIMEDOUT.  Response time 10184ms.
+4:06:40 AM - error: Error - Called Delivery URL check.  Response code Error: ETIMEDOUT.  Response time 10183ms.
+6:08:39 AM - info: Running scheduled checks
+6:08:39 AM - info: Running Website check Western Union GCC.
+6:08:39 AM - info: Running Website check Campaign Details.
+6:08:39 AM - info: Running Website check Delivery URL.
+6:08:40 AM - info: Called Delivery URL check.  Response code 200.  Response time 1648ms.
+6:08:40 AM - info: Called Campaign Details check.  Response code 200.  Response time 1669ms.
+6:08:40 AM - info: Called Western Union GCC check.  Response code 200.  Response time 1717ms.
+8:10:23 AM - info: Running scheduled checks
+8:10:23 AM - info: Running Website check Western Union GCC.
+8:10:23 AM - info: Running Website check Campaign Details.
+8:10:23 AM - info: Running Website check Delivery URL.
+8:10:25 AM - info: Called Campaign Details check.  Response code 200.  Response time 1698ms.
+8:10:25 AM - info: Called Western Union GCC check.  Response code 200.  Response time 1713ms.
+8:10:25 AM - info: Called Delivery URL check.  Response code 200.  Response time 1700ms.
+8:53:09 AM - info: Running scheduled checks
+8:53:09 AM - info: Running Website check Western Union GCC.
+8:53:09 AM - info: Running Website check Campaign Details.
+8:53:09 AM - info: Running Website check Delivery URL.
+8:53:11 AM - info: Called Campaign Details check.  Response code 200.  Response time 1392ms.
+8:53:11 AM - info: Called Western Union GCC check.  Response code 200.  Response time 1393ms.
+8:53:11 AM - info: Called Delivery URL check.  Response code 200.  Response time 1390ms.
+9:03:09 AM - info: Running scheduled checks
+9:03:09 AM - info: Running Website check Western Union GCC.
+9:03:09 AM - info: Running Website check Campaign Details.
+9:03:09 AM - info: Running Website check Delivery URL.
+9:03:10 AM - info: Called Campaign Details check.  Response code 200.  Response time 990ms.
+9:03:10 AM - info: Called Delivery URL check.  Response code 200.  Response time 979ms.
+9:03:11 AM - info: Called Western Union GCC check.  Response code 200.  Response time 1298ms.
+11:55:08 AM - info: Starting application
+11:55:08 AM - info: Initializing web server module
+11:55:08 AM - info:  Error: listen EADDRINUSE: address already in use :::5251
+    at Server.setupListenHandle [as _listen2] (net.js:1226:14)
+    at listenInCluster (net.js:1274:12)
+    at Server.listen (net.js:1362:7)
+    at /Users/beniston.j/Documents/greyferret/application-healthcheck/src/server/app.js:32:37
+    at new Promise (<anonymous>)
+    at Object.start (/Users/beniston.j/Documents/greyferret/application-healthcheck/src/server/app.js:22:10)
+    at _callee$ (/Users/beniston.j/Documents/greyferret/application-healthcheck/index.js:11:21)
+    at tryCatch (/Users/beniston.j/Documents/greyferret/application-healthcheck/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/Users/beniston.j/Documents/greyferret/application-healthcheck/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.<computed> [as next] (/Users/beniston.j/Documents/greyferret/application-healthcheck/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/Users/beniston.j/Documents/greyferret/application-healthcheck/index.js:54:191)
+    at /Users/beniston.j/Documents/greyferret/application-healthcheck/index.js:54:437
+    at new Promise (<anonymous>)
+    at /Users/beniston.j/Documents/greyferret/application-healthcheck/index.js:54:99
+    at startup (/Users/beniston.j/Documents/greyferret/application-healthcheck/index.js:40:17)
+    at Object.<anonymous> (/Users/beniston.j/Documents/greyferret/application-healthcheck/index.js:20:1)
+    at Module._compile (internal/modules/cjs/loader.js:774:30)
+    at loader (/Users/beniston.j/Documents/greyferret/application-healthcheck/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.<computed> [as .js] (/Users/beniston.j/Documents/greyferret/application-healthcheck/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:641:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:837:10)
+11:55:25 AM - info: Starting application
+11:55:25 AM - info: Initializing web server module
+11:55:25 AM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+11:55:25 AM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+11:55:25 AM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+11:55:32 AM - info: Received request for landscapes/list.
+11:55:32 AM - info: Received request for app options.
+11:55:32 AM - info: Received request for landscapes/list.
+11:55:32 AM - info: Received request for app options.
+11:55:32 AM - info: Received request for landscapes/list.
+11:55:32 AM - info: Received request for dashboard.
+11:55:32 AM - info: Received request for /components/list.
+11:55:32 AM - info: Received request to check all components.
+11:55:32 AM - info: Running Website check Western Union GCC.
+11:55:32 AM - info: Running Website check Campaign Details.
+11:55:32 AM - info: Running Website check Delivery URL.
+11:55:32 AM - info: Received socket connection.
+11:55:34 AM - info: Called Delivery URL check.  Response code 200.  Response time 1631ms.
+11:55:34 AM - info: Called Western Union GCC check.  Response code 200.  Response time 1639ms.
+11:55:34 AM - info: Called Campaign Details check.  Response code 200.  Response time 1634ms.

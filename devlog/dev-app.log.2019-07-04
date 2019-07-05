@@ -1,0 +1,1554 @@
+12:39:14 PM - info: Starting application
+12:39:14 PM - info: Initializing web server module
+12:39:14 PM - info: Healthcheck App Started.  Live at http://LT-MAC-077s-MacBook-Pro.local:5251.
+12:39:14 PM - info: Get list of items to monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/components/list.
+12:39:14 PM - info: Run the monitor.  http://LT-MAC-077s-MacBook-Pro.local:5251/api/runMonitor.
+12:39:20 PM - info: Received socket connection.
+12:39:20 PM - info: Received socket connection.
+12:39:20 PM - info: Received socket connection.
+12:39:20 PM - info: Received socket connection.
+12:39:20 PM - info: Received socket connection.
+12:39:20 PM - info: Received socket connection.
+12:39:20 PM - info: Received socket connection.
+12:39:20 PM - info: Received socket connection.
+12:39:24 PM - info: Received request for landscapes/list.
+12:39:24 PM - info: Received request for app options.
+12:39:24 PM - info: Received request for landscapes/list.
+12:39:24 PM - info: Received request for app options.
+12:39:24 PM - info: Received request for landscapes/list.
+12:39:24 PM - info: Received request for dashboard.
+12:39:24 PM - info: Received request for /components/list.
+12:39:24 PM - info: Received socket connection.
+12:39:24 PM - info: Received request to check all components.
+12:39:24 PM - info: Running Website check Western Union GCC.
+12:39:24 PM - info: Running Website check Campaign Details.
+12:39:24 PM - info: Running Website check Delivery URL.
+12:39:26 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1949ms.
+12:39:27 PM - info: Called Campaign Details check.  Response code 200.  Response time 2491ms.
+12:39:27 PM - info: Called Delivery URL check.  Response code 200.  Response time 2492ms.
+12:39:51 PM - info: Received socket connection.
+12:39:52 PM - info: Received socket connection.
+12:39:52 PM - info: Received socket connection.
+12:39:52 PM - info: Received socket connection.
+12:40:13 PM - info: Received request for app options.
+12:40:13 PM - info: Received request for landscapes/list.
+12:40:13 PM - info: Received request for app options.
+12:40:13 PM - info: Received request for /components/list.
+12:40:13 PM - info: Received socket connection.
+12:40:13 PM - info: Received request to check all components.
+12:40:13 PM - info: Running Website check Western Union GCC.
+12:40:13 PM - info: Running Website check Campaign Details.
+12:40:13 PM - info: Running Website check Delivery URL.
+12:40:14 PM - info: Called Campaign Details check.  Response code 200.  Response time 1160ms.
+12:40:14 PM - info: Called Delivery URL check.  Response code 200.  Response time 1180ms.
+12:40:14 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1183ms.
+12:40:48 PM - info: Received socket connection.
+12:40:48 PM - info: Received socket connection.
+12:40:49 PM - info: Received socket connection.
+12:40:49 PM - info: Received socket connection.
+12:40:49 PM - info: Received socket connection.
+12:40:49 PM - info: Received socket connection.
+12:40:49 PM - info: Received socket connection.
+12:40:49 PM - info: Received socket connection.
+12:43:44 PM - info: Received request for app options.
+12:43:44 PM - info: Received request for landscapes/list.
+12:43:44 PM - info: Received request for app options.
+12:43:44 PM - info: Received request for landscapes/list.
+12:43:44 PM - info: Received request for dashboard.
+12:43:44 PM - info: Received request for /components/list.
+12:43:44 PM - info: Received socket connection.
+12:43:45 PM - info: Received request to check all components.
+12:43:45 PM - info: Running Website check Western Union GCC.
+12:43:45 PM - info: Running Website check Campaign Details.
+12:43:45 PM - info: Running Website check Delivery URL.
+12:43:45 PM - info: Called Delivery URL check.  Response code 200.  Response time 763ms.
+12:43:45 PM - info: Called Campaign Details check.  Response code 200.  Response time 764ms.
+12:43:45 PM - info: Called Western Union GCC check.  Response code 200.  Response time 765ms.
+12:44:26 PM - info: Received socket connection.
+12:44:26 PM - info: Received socket connection.
+12:44:26 PM - info: Received socket connection.
+12:44:26 PM - info: Received socket connection.
+12:44:26 PM - info: Received socket connection.
+12:44:27 PM - info: Received socket connection.
+12:44:27 PM - info: Received socket connection.
+12:44:27 PM - info: Received socket connection.
+12:44:58 PM - info: Received socket connection.
+12:45:27 PM - info: Received socket connection.
+12:45:28 PM - info: Received socket connection.
+12:45:28 PM - info: Received socket connection.
+12:45:28 PM - info: Received socket connection.
+12:45:28 PM - info: Received socket connection.
+12:45:28 PM - info: Received socket connection.
+12:45:28 PM - info: Received socket connection.
+12:45:58 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:46:57 PM - info: Received socket connection.
+12:49:14 PM - info: Running scheduled checks
+12:49:14 PM - info: Running Website check Western Union GCC.
+12:49:14 PM - info: Running Website check Campaign Details.
+12:49:14 PM - info: Running Website check Delivery URL.
+12:49:15 PM - info: Called Campaign Details check.  Response code 200.  Response time 860ms.
+12:49:15 PM - info: Called Western Union GCC check.  Response code 200.  Response time 860ms.
+12:49:15 PM - info: Called Delivery URL check.  Response code 200.  Response time 860ms.
+12:50:04 PM - info: Received socket connection.
+12:50:04 PM - info: Received socket connection.
+12:50:04 PM - info: Received socket connection.
+12:50:04 PM - info: Received socket connection.
+12:50:04 PM - info: Received socket connection.
+12:50:04 PM - info: Received socket connection.
+12:50:04 PM - info: Received socket connection.
+12:50:04 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:51:54 PM - info: Received socket connection.
+12:55:38 PM - info: Received socket connection.
+12:55:38 PM - info: Received socket connection.
+12:55:53 PM - info: Received socket connection.
+12:55:54 PM - info: Received socket connection.
+12:55:54 PM - info: Received socket connection.
+12:55:54 PM - info: Received socket connection.
+12:55:54 PM - info: Received socket connection.
+12:55:54 PM - info: Received socket connection.
+12:55:54 PM - info: Received socket connection.
+12:55:54 PM - info: Received socket connection.
+12:56:25 PM - info: Received socket connection.
+12:56:54 PM - info: Received socket connection.
+12:56:55 PM - info: Received socket connection.
+12:56:55 PM - info: Received socket connection.
+12:56:55 PM - info: Received socket connection.
+12:56:55 PM - info: Received socket connection.
+12:56:55 PM - info: Received socket connection.
+12:56:55 PM - info: Received socket connection.
+12:57:09 PM - info: Received socket connection.
+12:57:10 PM - info: Received socket connection.
+12:57:10 PM - info: Received socket connection.
+12:59:14 PM - info: Running scheduled checks
+12:59:14 PM - info: Running Website check Western Union GCC.
+12:59:14 PM - info: Running Website check Campaign Details.
+12:59:14 PM - info: Running Website check Delivery URL.
+12:59:15 PM - info: Called Western Union GCC check.  Response code 200.  Response time 755ms.
+12:59:15 PM - info: Called Campaign Details check.  Response code 200.  Response time 756ms.
+12:59:15 PM - info: Called Delivery URL check.  Response code 200.  Response time 756ms.
+12:59:51 PM - info: Received socket connection.
+12:59:51 PM - info: Received socket connection.
+12:59:51 PM - info: Received socket connection.
+1:00:23 PM - info: Received socket connection.
+1:00:23 PM - info: Received socket connection.
+1:00:53 PM - info: Received socket connection.
+1:01:22 PM - info: Received socket connection.
+1:01:23 PM - info: Received socket connection.
+1:01:53 PM - info: Received socket connection.
+1:01:54 PM - info: Received socket connection.
+1:01:54 PM - info: Received socket connection.
+1:01:54 PM - info: Received socket connection.
+1:01:55 PM - info: Received socket connection.
+1:01:55 PM - info: Received socket connection.
+1:01:55 PM - info: Received socket connection.
+1:01:55 PM - info: Received socket connection.
+1:01:55 PM - info: Received socket connection.
+1:02:23 PM - info: Received socket connection.
+1:02:23 PM - info: Received socket connection.
+1:03:18 PM - info: Received socket connection.
+1:03:48 PM - info: Received socket connection.
+1:03:48 PM - info: Received socket connection.
+1:03:49 PM - info: Received socket connection.
+1:03:50 PM - info: Received socket connection.
+1:03:50 PM - info: Received socket connection.
+1:03:50 PM - info: Received socket connection.
+1:03:50 PM - info: Received socket connection.
+1:03:50 PM - info: Received socket connection.
+1:03:50 PM - info: Received socket connection.
+1:03:50 PM - info: Received socket connection.
+1:04:18 PM - info: Received socket connection.
+1:04:48 PM - info: Received socket connection.
+1:04:48 PM - info: Received socket connection.
+1:05:18 PM - info: Received socket connection.
+1:05:48 PM - info: Received socket connection.
+1:05:48 PM - info: Received socket connection.
+1:05:50 PM - info: Received socket connection.
+1:05:50 PM - info: Received socket connection.
+1:06:44 PM - info: Received socket connection.
+1:06:45 PM - info: Received socket connection.
+1:06:45 PM - info: Received socket connection.
+1:06:46 PM - info: Received socket connection.
+1:06:46 PM - info: Received socket connection.
+1:06:46 PM - info: Received socket connection.
+1:06:46 PM - info: Received socket connection.
+1:09:14 PM - info: Running scheduled checks
+1:09:14 PM - info: Running Website check Western Union GCC.
+1:09:14 PM - info: Running Website check Campaign Details.
+1:09:14 PM - info: Running Website check Delivery URL.
+1:09:15 PM - info: Called Delivery URL check.  Response code 200.  Response time 783ms.
+1:09:15 PM - info: Called Campaign Details check.  Response code 200.  Response time 785ms.
+1:09:15 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1098ms.
+1:09:52 PM - info: Received socket connection.
+1:09:52 PM - info: Received socket connection.
+1:09:52 PM - info: Received socket connection.
+1:09:53 PM - info: Received socket connection.
+1:09:53 PM - info: Received socket connection.
+1:09:53 PM - info: Received socket connection.
+1:09:53 PM - info: Received socket connection.
+1:09:53 PM - info: Received socket connection.
+1:09:54 PM - info: Received socket connection.
+1:09:54 PM - info: Received socket connection.
+1:09:54 PM - info: Received socket connection.
+1:10:24 PM - info: Received socket connection.
+1:10:25 PM - info: Received socket connection.
+1:10:25 PM - info: Received socket connection.
+1:11:19 PM - info: Received socket connection.
+1:11:19 PM - info: Received socket connection.
+1:11:20 PM - info: Received socket connection.
+1:11:20 PM - info: Received socket connection.
+1:11:20 PM - info: Received socket connection.
+1:11:20 PM - info: Received socket connection.
+1:11:20 PM - info: Received socket connection.
+1:11:21 PM - info: Received socket connection.
+1:12:15 PM - info: Received socket connection.
+1:12:16 PM - info: Received socket connection.
+1:12:16 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:40 PM - info: Received socket connection.
+1:13:41 PM - info: Received socket connection.
+1:13:41 PM - info: Received socket connection.
+1:13:41 PM - info: Received socket connection.
+1:13:41 PM - info: Received socket connection.
+1:13:42 PM - info: Received socket connection.
+1:13:42 PM - info: Received socket connection.
+1:13:42 PM - info: Received socket connection.
+1:13:42 PM - info: Received socket connection.
+1:14:12 PM - info: Received socket connection.
+1:14:12 PM - info: Received socket connection.
+1:14:12 PM - info: Received socket connection.
+1:14:12 PM - info: Received socket connection.
+1:14:42 PM - info: Received socket connection.
+1:14:42 PM - info: Received socket connection.
+1:14:42 PM - info: Received socket connection.
+1:14:43 PM - info: Received socket connection.
+1:14:43 PM - info: Received socket connection.
+1:14:43 PM - info: Received socket connection.
+1:14:43 PM - info: Received socket connection.
+1:15:12 PM - info: Received socket connection.
+1:15:12 PM - info: Received socket connection.
+1:15:13 PM - info: Received socket connection.
+1:15:13 PM - info: Received socket connection.
+1:16:07 PM - info: Received socket connection.
+1:16:08 PM - info: Received socket connection.
+1:16:08 PM - info: Received socket connection.
+1:16:08 PM - info: Received socket connection.
+1:16:08 PM - info: Received socket connection.
+1:16:08 PM - info: Received socket connection.
+1:16:09 PM - info: Received socket connection.
+1:16:37 PM - info: Received socket connection.
+1:16:38 PM - info: Received socket connection.
+1:16:38 PM - info: Received socket connection.
+1:16:38 PM - info: Received socket connection.
+1:17:07 PM - info: Received socket connection.
+1:17:08 PM - info: Received socket connection.
+1:17:08 PM - info: Received socket connection.
+1:17:08 PM - info: Received socket connection.
+1:17:09 PM - info: Received socket connection.
+1:17:09 PM - info: Received socket connection.
+1:17:09 PM - info: Received socket connection.
+1:17:37 PM - info: Received socket connection.
+1:17:37 PM - info: Received socket connection.
+1:17:38 PM - info: Received socket connection.
+1:17:38 PM - info: Received socket connection.
+2:16:40 PM - info: Running scheduled checks
+2:16:40 PM - info: Running Website check Western Union GCC.
+2:16:40 PM - info: Running Website check Campaign Details.
+2:16:40 PM - info: Running Website check Delivery URL.
+2:16:42 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1313ms.
+2:16:42 PM - info: Called Campaign Details check.  Response code 200.  Response time 1585ms.
+2:16:42 PM - info: Called Delivery URL check.  Response code 200.  Response time 1586ms.
+2:17:17 PM - info: Received socket connection.
+2:17:17 PM - info: Received socket connection.
+2:17:17 PM - info: Received socket connection.
+2:17:18 PM - info: Received socket connection.
+2:17:18 PM - info: Received socket connection.
+2:17:19 PM - info: Received socket connection.
+2:17:19 PM - info: Received socket connection.
+2:17:19 PM - info: Received socket connection.
+2:17:19 PM - info: Received socket connection.
+2:17:19 PM - info: Received socket connection.
+2:17:19 PM - info: Received socket connection.
+2:17:49 PM - info: Received socket connection.
+2:17:49 PM - info: Received socket connection.
+2:17:49 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:22:26 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:15 PM - info: Received socket connection.
+2:24:47 PM - info: Received socket connection.
+2:24:47 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:25:17 PM - info: Received socket connection.
+2:26:13 PM - info: Received socket connection.
+2:26:13 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:14 PM - info: Received socket connection.
+2:26:45 PM - info: Running scheduled checks
+2:26:45 PM - info: Running Website check Western Union GCC.
+2:26:45 PM - info: Running Website check Campaign Details.
+2:26:45 PM - info: Running Website check Delivery URL.
+2:26:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 1000ms.
+2:26:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 1000ms.
+2:26:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1003ms.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:28:31 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:29:32 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:31:49 PM - info: Received socket connection.
+2:32:21 PM - info: Received socket connection.
+2:32:21 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:32:51 PM - info: Received socket connection.
+2:33:48 PM - info: Received socket connection.
+2:33:48 PM - info: Received socket connection.
+2:34:43 PM - info: Received socket connection.
+2:34:43 PM - info: Received socket connection.
+2:34:43 PM - info: Received socket connection.
+2:34:43 PM - info: Received socket connection.
+2:34:43 PM - info: Received socket connection.
+2:34:43 PM - info: Received socket connection.
+2:34:43 PM - info: Received socket connection.
+2:34:44 PM - info: Received socket connection.
+2:34:44 PM - info: Received socket connection.
+2:35:13 PM - info: Received socket connection.
+2:35:14 PM - info: Received socket connection.
+2:36:45 PM - info: Running scheduled checks
+2:36:45 PM - info: Running Website check Western Union GCC.
+2:36:45 PM - info: Running Website check Campaign Details.
+2:36:45 PM - info: Running Website check Delivery URL.
+2:36:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 719ms.
+2:36:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 724ms.
+2:36:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 757ms.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:27 PM - info: Received socket connection.
+2:37:57 PM - info: Received socket connection.
+2:37:57 PM - info: Received socket connection.
+2:38:55 PM - info: Received socket connection.
+2:38:55 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:38:56 PM - info: Received socket connection.
+2:39:26 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:39:57 PM - info: Received socket connection.
+2:40:27 PM - info: Received socket connection.
+2:40:57 PM - info: Received socket connection.
+2:40:57 PM - info: Received socket connection.
+2:40:58 PM - info: Received socket connection.
+2:40:59 PM - info: Received socket connection.
+2:40:59 PM - info: Received socket connection.
+2:40:59 PM - info: Received socket connection.
+2:40:59 PM - info: Received socket connection.
+2:40:59 PM - info: Received socket connection.
+2:40:59 PM - info: Received socket connection.
+2:40:59 PM - info: Received socket connection.
+2:41:26 PM - info: Received socket connection.
+2:41:56 PM - info: Received socket connection.
+2:41:56 PM - info: Received socket connection.
+2:41:57 PM - info: Received socket connection.
+2:41:57 PM - info: Received socket connection.
+2:41:58 PM - info: Received socket connection.
+2:41:58 PM - info: Received socket connection.
+2:41:58 PM - info: Received socket connection.
+2:41:58 PM - info: Received socket connection.
+2:41:58 PM - info: Received socket connection.
+2:41:58 PM - info: Received socket connection.
+2:42:27 PM - info: Received socket connection.
+2:42:56 PM - info: Received socket connection.
+2:42:57 PM - info: Received socket connection.
+2:43:53 PM - info: Received socket connection.
+2:43:53 PM - info: Received socket connection.
+2:44:24 PM - info: Received socket connection.
+2:44:24 PM - info: Received socket connection.
+2:44:24 PM - info: Received socket connection.
+2:44:24 PM - info: Received socket connection.
+2:44:24 PM - info: Received socket connection.
+2:44:25 PM - info: Received socket connection.
+2:44:25 PM - info: Received socket connection.
+2:44:25 PM - info: Received socket connection.
+2:44:25 PM - info: Received socket connection.
+2:44:53 PM - info: Received socket connection.
+2:44:53 PM - info: Received socket connection.
+2:46:45 PM - info: Running scheduled checks
+2:46:45 PM - info: Running Website check Western Union GCC.
+2:46:45 PM - info: Running Website check Campaign Details.
+2:46:45 PM - info: Running Website check Delivery URL.
+2:46:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1339ms.
+2:46:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 1339ms.
+2:46:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 1340ms.
+2:47:33 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:47:34 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:31 PM - info: Received socket connection.
+2:48:32 PM - info: Received socket connection.
+2:49:03 PM - info: Received socket connection.
+2:49:03 PM - info: Received socket connection.
+2:49:32 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:49:33 PM - info: Received socket connection.
+2:50:03 PM - info: Received socket connection.
+2:50:03 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:51:24 PM - info: Received socket connection.
+2:52:20 PM - info: Received socket connection.
+2:52:20 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:52:50 PM - info: Received socket connection.
+2:53:48 PM - info: Received socket connection.
+2:53:48 PM - info: Received socket connection.
+2:53:48 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:53:49 PM - info: Received socket connection.
+2:54:20 PM - info: Received socket connection.
+2:54:20 PM - info: Received socket connection.
+2:54:49 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:54:50 PM - info: Received socket connection.
+2:55:19 PM - info: Received socket connection.
+2:55:20 PM - info: Received socket connection.
+2:55:49 PM - info: Received socket connection.
+2:55:49 PM - info: Received socket connection.
+2:55:49 PM - info: Received socket connection.
+2:55:50 PM - info: Received socket connection.
+2:55:50 PM - info: Received socket connection.
+2:55:50 PM - info: Received socket connection.
+2:55:50 PM - info: Received socket connection.
+2:55:50 PM - info: Received socket connection.
+2:55:50 PM - info: Received socket connection.
+2:56:20 PM - info: Received socket connection.
+2:56:20 PM - info: Received socket connection.
+2:56:45 PM - info: Running scheduled checks
+2:56:45 PM - info: Running Website check Western Union GCC.
+2:56:45 PM - info: Running Website check Campaign Details.
+2:56:45 PM - info: Running Website check Delivery URL.
+2:56:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 824ms.
+2:56:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 823ms.
+2:56:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 824ms.
+2:57:17 PM - info: Received socket connection.
+2:57:17 PM - info: Received socket connection.
+2:57:17 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:18 PM - info: Received socket connection.
+2:57:48 PM - info: Received socket connection.
+2:57:48 PM - info: Received socket connection.
+2:57:49 PM - info: Received socket connection.
+2:58:48 PM - info: Received socket connection.
+2:58:48 PM - info: Received socket connection.
+2:58:48 PM - info: Received socket connection.
+2:58:48 PM - info: Received socket connection.
+2:58:48 PM - info: Received socket connection.
+2:58:48 PM - info: Received socket connection.
+2:58:49 PM - info: Received socket connection.
+2:58:49 PM - info: Received socket connection.
+2:58:49 PM - info: Received socket connection.
+2:58:49 PM - info: Received socket connection.
+2:58:49 PM - info: Received socket connection.
+2:59:20 PM - info: Received socket connection.
+2:59:20 PM - info: Received socket connection.
+2:59:20 PM - info: Received socket connection.
+2:59:49 PM - info: Received socket connection.
+2:59:49 PM - info: Received socket connection.
+2:59:49 PM - info: Received socket connection.
+2:59:50 PM - info: Received socket connection.
+2:59:50 PM - info: Received socket connection.
+2:59:50 PM - info: Received socket connection.
+2:59:50 PM - info: Received socket connection.
+2:59:50 PM - info: Received socket connection.
+3:00:20 PM - info: Received socket connection.
+3:00:20 PM - info: Received socket connection.
+3:00:20 PM - info: Received socket connection.
+3:00:49 PM - info: Received socket connection.
+3:00:49 PM - info: Received socket connection.
+3:00:49 PM - info: Received socket connection.
+3:00:50 PM - info: Received socket connection.
+3:00:50 PM - info: Received socket connection.
+3:00:50 PM - info: Received socket connection.
+3:00:50 PM - info: Received socket connection.
+3:00:50 PM - info: Received socket connection.
+3:01:20 PM - info: Received socket connection.
+3:01:20 PM - info: Received socket connection.
+3:01:20 PM - info: Received socket connection.
+3:01:49 PM - info: Received socket connection.
+3:01:50 PM - info: Received socket connection.
+3:01:50 PM - info: Received socket connection.
+3:01:50 PM - info: Received socket connection.
+3:01:50 PM - info: Received socket connection.
+3:01:50 PM - info: Received socket connection.
+3:01:50 PM - info: Received socket connection.
+3:01:50 PM - info: Received socket connection.
+3:02:20 PM - info: Received socket connection.
+3:02:20 PM - info: Received socket connection.
+3:02:20 PM - info: Received socket connection.
+3:02:49 PM - info: Received socket connection.
+3:02:49 PM - info: Received socket connection.
+3:02:49 PM - info: Received socket connection.
+3:02:50 PM - info: Received socket connection.
+3:02:50 PM - info: Received socket connection.
+3:02:50 PM - info: Received socket connection.
+3:02:50 PM - info: Received socket connection.
+3:02:50 PM - info: Received socket connection.
+3:03:20 PM - info: Received socket connection.
+3:03:20 PM - info: Received socket connection.
+3:03:21 PM - info: Received socket connection.
+3:04:41 PM - info: Received socket connection.
+3:04:41 PM - info: Received socket connection.
+3:04:41 PM - info: Received socket connection.
+3:04:41 PM - info: Received socket connection.
+3:04:41 PM - info: Received socket connection.
+3:04:41 PM - info: Received socket connection.
+3:04:42 PM - info: Received socket connection.
+3:04:42 PM - info: Received socket connection.
+3:06:45 PM - info: Running scheduled checks
+3:06:45 PM - info: Running Website check Western Union GCC.
+3:06:45 PM - info: Running Website check Campaign Details.
+3:06:45 PM - info: Running Website check Delivery URL.
+3:06:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 778ms.
+3:06:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 788ms.
+3:06:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 1297ms.
+3:07:25 PM - info: Received socket connection.
+3:07:25 PM - info: Received socket connection.
+3:07:25 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:07:26 PM - info: Received socket connection.
+3:08:22 PM - info: Received socket connection.
+3:08:22 PM - info: Received socket connection.
+3:08:22 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:23 PM - info: Received socket connection.
+3:08:54 PM - info: Received socket connection.
+3:08:55 PM - info: Received socket connection.
+3:08:55 PM - info: Received socket connection.
+3:08:55 PM - info: Received socket connection.
+3:09:24 PM - info: Received socket connection.
+3:09:24 PM - info: Received socket connection.
+3:09:25 PM - info: Received socket connection.
+3:09:25 PM - info: Received socket connection.
+3:09:25 PM - info: Received socket connection.
+3:09:25 PM - info: Received socket connection.
+3:09:25 PM - info: Received socket connection.
+3:09:54 PM - info: Received socket connection.
+3:09:55 PM - info: Received socket connection.
+3:09:55 PM - info: Received socket connection.
+3:09:55 PM - info: Received socket connection.
+3:10:24 PM - info: Received socket connection.
+3:10:24 PM - info: Received socket connection.
+3:10:25 PM - info: Received socket connection.
+3:10:25 PM - info: Received socket connection.
+3:10:25 PM - info: Received socket connection.
+3:10:25 PM - info: Received socket connection.
+3:10:25 PM - info: Received socket connection.
+3:10:55 PM - info: Received socket connection.
+3:10:55 PM - info: Received socket connection.
+3:10:55 PM - info: Received socket connection.
+3:10:55 PM - info: Received socket connection.
+3:11:24 PM - info: Received socket connection.
+3:11:24 PM - info: Received socket connection.
+3:11:25 PM - info: Received socket connection.
+3:11:25 PM - info: Received socket connection.
+3:11:25 PM - info: Received socket connection.
+3:11:25 PM - info: Received socket connection.
+3:11:25 PM - info: Received socket connection.
+3:11:54 PM - info: Received socket connection.
+3:11:55 PM - info: Received socket connection.
+3:11:55 PM - info: Received socket connection.
+3:11:55 PM - info: Received socket connection.
+3:13:15 PM - info: Received socket connection.
+3:13:16 PM - info: Received socket connection.
+3:13:16 PM - info: Received socket connection.
+3:13:16 PM - info: Received socket connection.
+3:13:17 PM - info: Received socket connection.
+3:13:17 PM - info: Received socket connection.
+3:13:17 PM - info: Received socket connection.
+3:13:45 PM - info: Received socket connection.
+3:13:46 PM - info: Received socket connection.
+3:13:46 PM - info: Received socket connection.
+3:13:47 PM - info: Received socket connection.
+3:14:41 PM - info: Received socket connection.
+3:14:42 PM - info: Received socket connection.
+3:14:42 PM - info: Received socket connection.
+3:14:42 PM - info: Received socket connection.
+3:14:42 PM - info: Received socket connection.
+3:14:43 PM - info: Received socket connection.
+3:14:43 PM - info: Received socket connection.
+3:15:11 PM - info: Received socket connection.
+3:15:12 PM - info: Received socket connection.
+3:15:12 PM - info: Received socket connection.
+3:15:13 PM - info: Received socket connection.
+3:16:07 PM - info: Received socket connection.
+3:16:07 PM - info: Received socket connection.
+3:16:37 PM - info: Received socket connection.
+3:16:45 PM - info: Running scheduled checks
+3:16:45 PM - info: Running Website check Western Union GCC.
+3:16:45 PM - info: Running Website check Campaign Details.
+3:16:45 PM - info: Running Website check Delivery URL.
+3:16:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1124ms.
+3:16:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 1123ms.
+3:16:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 1125ms.
+3:17:59 PM - info: Received socket connection.
+3:17:59 PM - info: Received socket connection.
+3:17:59 PM - info: Received socket connection.
+3:17:59 PM - info: Received socket connection.
+3:17:59 PM - info: Received socket connection.
+3:17:59 PM - info: Received socket connection.
+3:17:59 PM - info: Received socket connection.
+3:18:01 PM - info: Received socket connection.
+3:18:01 PM - info: Received socket connection.
+3:18:01 PM - info: Received socket connection.
+3:18:31 PM - info: Received socket connection.
+3:18:31 PM - info: Received socket connection.
+3:18:59 PM - info: Received socket connection.
+3:18:59 PM - info: Received socket connection.
+3:18:59 PM - info: Received socket connection.
+3:19:30 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:19:31 PM - info: Received socket connection.
+3:20:01 PM - info: Received socket connection.
+3:20:02 PM - info: Received socket connection.
+3:20:31 PM - info: Received socket connection.
+3:20:31 PM - info: Received socket connection.
+3:20:32 PM - info: Received socket connection.
+3:20:32 PM - info: Received socket connection.
+3:20:32 PM - info: Received socket connection.
+3:20:32 PM - info: Received socket connection.
+3:20:32 PM - info: Received socket connection.
+3:20:32 PM - info: Received socket connection.
+3:20:32 PM - info: Received socket connection.
+3:21:01 PM - info: Received socket connection.
+3:21:02 PM - info: Received socket connection.
+3:21:56 PM - info: Received socket connection.
+3:21:56 PM - info: Received socket connection.
+3:21:57 PM - info: Received socket connection.
+3:21:57 PM - info: Received socket connection.
+3:21:57 PM - info: Received socket connection.
+3:21:57 PM - info: Received socket connection.
+3:21:57 PM - info: Received socket connection.
+3:21:57 PM - info: Received socket connection.
+3:21:58 PM - info: Received socket connection.
+3:22:26 PM - info: Received socket connection.
+3:22:27 PM - info: Received socket connection.
+3:23:48 PM - info: Received socket connection.
+3:23:49 PM - info: Received socket connection.
+3:24:44 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:24:45 PM - info: Received socket connection.
+3:25:14 PM - info: Received socket connection.
+3:25:14 PM - info: Received socket connection.
+3:25:44 PM - info: Received socket connection.
+3:26:14 PM - info: Received socket connection.
+3:26:14 PM - info: Received socket connection.
+3:26:44 PM - info: Received socket connection.
+3:26:45 PM - info: Running scheduled checks
+3:26:45 PM - info: Running Website check Western Union GCC.
+3:26:45 PM - info: Running Website check Campaign Details.
+3:26:45 PM - info: Running Website check Delivery URL.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Received socket connection.
+3:26:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 877ms.
+3:26:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 879ms.
+3:26:47 PM - info: Called Delivery URL check.  Response code 200.  Response time 1491ms.
+3:27:14 PM - info: Received socket connection.
+3:27:14 PM - info: Received socket connection.
+3:27:44 PM - info: Received socket connection.
+3:28:14 PM - info: Received socket connection.
+3:28:14 PM - info: Received socket connection.
+3:28:15 PM - info: Received socket connection.
+3:28:15 PM - info: Received socket connection.
+3:28:16 PM - info: Received socket connection.
+3:28:16 PM - info: Received socket connection.
+3:28:16 PM - info: Received socket connection.
+3:28:16 PM - info: Received socket connection.
+3:28:16 PM - info: Received socket connection.
+3:28:16 PM - info: Received socket connection.
+3:29:10 PM - info: Received socket connection.
+3:29:40 PM - info: Received socket connection.
+3:29:40 PM - info: Received socket connection.
+3:29:41 PM - info: Received socket connection.
+3:29:41 PM - info: Received socket connection.
+3:29:41 PM - info: Received socket connection.
+3:29:42 PM - info: Received socket connection.
+3:29:42 PM - info: Received socket connection.
+3:29:42 PM - info: Received socket connection.
+3:29:42 PM - info: Received socket connection.
+3:29:42 PM - info: Received socket connection.
+3:30:10 PM - info: Received socket connection.
+3:31:32 PM - info: Received socket connection.
+3:31:32 PM - info: Received socket connection.
+3:31:33 PM - info: Received socket connection.
+3:31:33 PM - info: Received socket connection.
+3:31:33 PM - info: Received socket connection.
+3:31:33 PM - info: Received socket connection.
+3:31:33 PM - info: Received socket connection.
+3:31:33 PM - info: Received socket connection.
+3:31:34 PM - info: Received socket connection.
+3:31:34 PM - info: Received socket connection.
+3:32:03 PM - info: Received socket connection.
+3:32:58 PM - info: Received socket connection.
+3:32:58 PM - info: Received socket connection.
+3:33:58 PM - info: Received socket connection.
+3:33:58 PM - info: Received socket connection.
+3:33:58 PM - info: Received socket connection.
+3:33:59 PM - info: Received socket connection.
+3:33:59 PM - info: Received socket connection.
+3:33:59 PM - info: Received socket connection.
+3:33:59 PM - info: Received socket connection.
+3:33:59 PM - info: Received socket connection.
+3:33:59 PM - info: Received socket connection.
+3:33:59 PM - info: Received socket connection.
+3:34:00 PM - info: Received socket connection.
+3:34:55 PM - info: Received socket connection.
+3:34:55 PM - info: Received socket connection.
+3:34:55 PM - info: Received socket connection.
+3:34:56 PM - info: Received socket connection.
+3:34:56 PM - info: Received socket connection.
+3:34:56 PM - info: Received socket connection.
+3:34:56 PM - info: Received socket connection.
+3:34:57 PM - info: Received socket connection.
+3:34:57 PM - info: Received socket connection.
+3:34:57 PM - info: Received socket connection.
+3:35:26 PM - info: Received socket connection.
+3:35:27 PM - info: Received socket connection.
+3:35:27 PM - info: Received socket connection.
+3:36:45 PM - info: Running scheduled checks
+3:36:45 PM - info: Running Website check Western Union GCC.
+3:36:45 PM - info: Running Website check Campaign Details.
+3:36:45 PM - info: Running Website check Delivery URL.
+3:36:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 777ms.
+3:36:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 786ms.
+3:36:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 1145ms.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:14 PM - info: Received socket connection.
+3:37:47 PM - info: Received socket connection.
+3:37:47 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:38:16 PM - info: Received socket connection.
+3:39:11 PM - info: Received socket connection.
+3:39:11 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:39:41 PM - info: Received socket connection.
+3:40:11 PM - info: Received socket connection.
+3:40:11 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:07 PM - info: Received socket connection.
+3:41:37 PM - info: Received socket connection.
+3:41:38 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:42:07 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:43:31 PM - info: Received socket connection.
+3:44:03 PM - info: Received socket connection.
+3:44:03 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:44:58 PM - info: Received socket connection.
+3:45:28 PM - info: Received socket connection.
+3:45:29 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:45:58 PM - info: Received socket connection.
+3:46:45 PM - info: Running scheduled checks
+3:46:45 PM - info: Running Website check Western Union GCC.
+3:46:45 PM - info: Running Website check Campaign Details.
+3:46:45 PM - info: Running Website check Delivery URL.
+3:46:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 798ms.
+3:46:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 799ms.
+3:46:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 800ms.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:00 PM - info: Received socket connection.
+3:50:01 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:50:57 PM - info: Received socket connection.
+3:51:27 PM - info: Received socket connection.
+3:51:57 PM - info: Received socket connection.
+3:51:57 PM - info: Received socket connection.
+3:51:57 PM - info: Received socket connection.
+3:51:57 PM - info: Received socket connection.
+3:51:57 PM - info: Received socket connection.
+3:51:57 PM - info: Received socket connection.
+3:51:58 PM - info: Received socket connection.
+3:52:53 PM - info: Received socket connection.
+3:52:54 PM - info: Received socket connection.
+3:52:54 PM - info: Received socket connection.
+3:52:54 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:53:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:54:50 PM - info: Received socket connection.
+3:55:22 PM - info: Received socket connection.
+3:55:23 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:55:52 PM - info: Received socket connection.
+3:56:45 PM - info: Running scheduled checks
+3:56:45 PM - info: Running Website check Western Union GCC.
+3:56:45 PM - info: Running Website check Campaign Details.
+3:56:45 PM - info: Running Website check Delivery URL.
+3:56:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 764ms.
+3:56:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 765ms.
+3:56:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 765ms.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:02 PM - info: Received socket connection.
+3:59:34 PM - info: Received socket connection.
+3:59:34 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:04 PM - info: Received socket connection.
+4:00:59 PM - info: Received socket connection.
+4:00:59 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:29 PM - info: Received socket connection.
+4:01:30 PM - info: Received socket connection.
+4:01:59 PM - info: Received socket connection.
+4:02:00 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:55 PM - info: Received socket connection.
+4:02:56 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:03:53 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:50 PM - info: Received socket connection.
+4:04:51 PM - info: Received socket connection.
+4:04:51 PM - info: Received socket connection.
+4:04:51 PM - info: Received socket connection.
+4:05:22 PM - info: Received socket connection.
+4:05:22 PM - info: Received socket connection.
+4:05:22 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:05:52 PM - info: Received socket connection.
+4:06:45 PM - info: Running scheduled checks
+4:06:45 PM - info: Running Website check Western Union GCC.
+4:06:45 PM - info: Running Website check Campaign Details.
+4:06:45 PM - info: Running Website check Delivery URL.
+4:06:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 823ms.
+4:06:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 827ms.
+4:06:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 826ms.
+4:07:17 PM - info: Received socket connection.
+4:07:17 PM - info: Received socket connection.
+4:07:17 PM - info: Received socket connection.
+4:07:17 PM - info: Received socket connection.
+4:07:17 PM - info: Received socket connection.
+4:07:17 PM - info: Received socket connection.
+4:07:18 PM - info: Received socket connection.
+4:07:18 PM - info: Received socket connection.
+4:07:18 PM - info: Received socket connection.
+4:07:18 PM - info: Received socket connection.
+4:07:18 PM - info: Received socket connection.
+4:07:48 PM - info: Received socket connection.
+4:07:49 PM - info: Received socket connection.
+4:07:49 PM - info: Received socket connection.
+4:08:18 PM - info: Received socket connection.
+4:08:18 PM - info: Received socket connection.
+4:08:18 PM - info: Received socket connection.
+4:08:18 PM - info: Received socket connection.
+4:08:18 PM - info: Received socket connection.
+4:08:18 PM - info: Received socket connection.
+4:08:19 PM - info: Received socket connection.
+4:08:19 PM - info: Received socket connection.
+4:09:14 PM - info: Received socket connection.
+4:09:14 PM - info: Received socket connection.
+4:09:14 PM - info: Received socket connection.
+4:09:44 PM - info: Received socket connection.
+4:09:44 PM - info: Received socket connection.
+4:09:44 PM - info: Received socket connection.
+4:09:44 PM - info: Received socket connection.
+4:09:44 PM - info: Received socket connection.
+4:09:44 PM - info: Received socket connection.
+4:09:44 PM - info: Received socket connection.
+4:09:45 PM - info: Received socket connection.
+4:10:14 PM - info: Received socket connection.
+4:10:14 PM - info: Received socket connection.
+4:10:14 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:10 PM - info: Received socket connection.
+4:11:40 PM - info: Received socket connection.
+4:11:40 PM - info: Received socket connection.
+4:11:40 PM - info: Received socket connection.
+4:12:10 PM - info: Received socket connection.
+4:12:10 PM - info: Received socket connection.
+4:12:10 PM - info: Received socket connection.
+4:12:10 PM - info: Received socket connection.
+4:12:10 PM - info: Received socket connection.
+4:12:10 PM - info: Received socket connection.
+4:12:10 PM - info: Received socket connection.
+4:12:11 PM - info: Received socket connection.
+4:13:32 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:13:33 PM - info: Received socket connection.
+4:14:04 PM - info: Received socket connection.
+4:14:05 PM - info: Received socket connection.
+4:14:05 PM - info: Received socket connection.
+4:14:33 PM - info: Received socket connection.
+4:14:33 PM - info: Received socket connection.
+4:14:33 PM - info: Received socket connection.
+4:14:33 PM - info: Received socket connection.
+4:14:34 PM - info: Received socket connection.
+4:14:34 PM - info: Received socket connection.
+4:14:34 PM - info: Received socket connection.
+4:15:03 PM - info: Received socket connection.
+4:15:33 PM - info: Received socket connection.
+4:15:33 PM - info: Received socket connection.
+4:15:33 PM - info: Received socket connection.
+4:15:33 PM - info: Received socket connection.
+4:15:34 PM - info: Received socket connection.
+4:15:34 PM - info: Received socket connection.
+4:15:34 PM - info: Received socket connection.
+4:16:03 PM - info: Received socket connection.
+4:16:04 PM - info: Received socket connection.
+4:16:05 PM - info: Received socket connection.
+4:16:45 PM - info: Running scheduled checks
+4:16:45 PM - info: Running Website check Western Union GCC.
+4:16:45 PM - info: Running Website check Campaign Details.
+4:16:45 PM - info: Running Website check Delivery URL.
+4:16:47 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1811ms.
+4:16:47 PM - info: Called Campaign Details check.  Response code 200.  Response time 1812ms.
+4:16:47 PM - info: Called Delivery URL check.  Response code 200.  Response time 1811ms.
+4:17:54 PM - info: Received socket connection.
+4:17:54 PM - info: Received socket connection.
+4:17:54 PM - info: Received socket connection.
+4:17:54 PM - info: Received socket connection.
+4:17:54 PM - info: Received socket connection.
+4:17:54 PM - info: Received socket connection.
+4:17:54 PM - info: Received socket connection.
+4:17:54 PM - info: Received socket connection.
+4:17:55 PM - info: Received socket connection.
+4:17:55 PM - info: Received socket connection.
+4:17:55 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:53 PM - info: Received socket connection.
+4:18:54 PM - info: Received socket connection.
+4:18:55 PM - info: Received socket connection.
+4:18:55 PM - info: Received socket connection.
+4:19:25 PM - info: Received socket connection.
+4:19:25 PM - info: Received socket connection.
+4:19:25 PM - info: Received socket connection.
+4:19:25 PM - info: Received socket connection.
+4:19:55 PM - info: Received socket connection.
+4:19:55 PM - info: Received socket connection.
+4:19:55 PM - info: Received socket connection.
+4:19:55 PM - info: Received socket connection.
+4:19:55 PM - info: Received socket connection.
+4:19:55 PM - info: Received socket connection.
+4:19:56 PM - info: Received socket connection.
+4:20:25 PM - info: Received socket connection.
+4:20:25 PM - info: Received socket connection.
+4:20:25 PM - info: Received socket connection.
+4:20:25 PM - info: Received socket connection.
+4:20:55 PM - info: Received socket connection.
+4:20:55 PM - info: Received socket connection.
+4:20:55 PM - info: Received socket connection.
+4:20:55 PM - info: Received socket connection.
+4:20:55 PM - info: Received socket connection.
+4:20:55 PM - info: Received socket connection.
+4:20:56 PM - info: Received socket connection.
+4:21:25 PM - info: Received socket connection.
+4:21:25 PM - info: Received socket connection.
+4:21:25 PM - info: Received socket connection.
+4:21:26 PM - info: Received socket connection.
+4:21:55 PM - info: Received socket connection.
+4:21:55 PM - info: Received socket connection.
+4:21:55 PM - info: Received socket connection.
+4:21:55 PM - info: Received socket connection.
+4:21:55 PM - info: Received socket connection.
+4:21:55 PM - info: Received socket connection.
+4:21:56 PM - info: Received socket connection.
+4:22:25 PM - info: Received socket connection.
+4:22:25 PM - info: Received socket connection.
+4:22:25 PM - info: Received socket connection.
+4:22:26 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:39 PM - info: Received socket connection.
+4:24:40 PM - info: Received socket connection.
+4:25:09 PM - info: Received socket connection.
+4:25:39 PM - info: Received socket connection.
+4:25:39 PM - info: Received socket connection.
+4:26:09 PM - info: Received socket connection.
+4:26:39 PM - info: Received socket connection.
+4:26:39 PM - info: Received socket connection.
+4:26:45 PM - info: Running scheduled checks
+4:26:45 PM - info: Running Website check Western Union GCC.
+4:26:45 PM - info: Running Website check Campaign Details.
+4:26:45 PM - info: Running Website check Delivery URL.
+4:26:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 851ms.
+4:26:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 850ms.
+4:26:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 850ms.
+4:27:09 PM - info: Received socket connection.
+4:27:39 PM - info: Received socket connection.
+4:27:40 PM - info: Received socket connection.
+4:27:40 PM - info: Received socket connection.
+4:27:40 PM - info: Received socket connection.
+4:27:40 PM - info: Received socket connection.
+4:27:40 PM - info: Received socket connection.
+4:27:40 PM - info: Received socket connection.
+4:27:40 PM - info: Received socket connection.
+4:27:41 PM - info: Received socket connection.
+4:27:41 PM - info: Received socket connection.
+4:29:03 PM - info: Received socket connection.
+4:29:03 PM - info: Received socket connection.
+4:29:03 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:20 PM - info: Received socket connection.
+4:31:52 PM - info: Received socket connection.
+4:31:52 PM - info: Received socket connection.
+4:31:52 PM - info: Received socket connection.
+4:31:52 PM - info: Received socket connection.
+4:32:22 PM - info: Received socket connection.
+4:32:22 PM - info: Received socket connection.
+4:32:22 PM - info: Received socket connection.
+4:32:22 PM - info: Received socket connection.
+4:32:22 PM - info: Received socket connection.
+4:32:22 PM - info: Received socket connection.
+4:32:22 PM - info: Received socket connection.
+4:32:52 PM - info: Received socket connection.
+4:32:52 PM - info: Received socket connection.
+4:32:52 PM - info: Received socket connection.
+4:32:52 PM - info: Received socket connection.
+4:35:05 PM - info: Received socket connection.
+4:35:05 PM - info: Received socket connection.
+4:35:05 PM - info: Received socket connection.
+4:35:05 PM - info: Received socket connection.
+4:35:05 PM - info: Received socket connection.
+4:35:05 PM - info: Received socket connection.
+4:35:05 PM - info: Received socket connection.
+4:36:45 PM - info: Running scheduled checks
+4:36:45 PM - info: Running Website check Western Union GCC.
+4:36:45 PM - info: Running Website check Campaign Details.
+4:36:45 PM - info: Running Website check Delivery URL.
+4:36:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 709ms.
+4:36:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 709ms.
+4:36:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 745ms.
+4:42:57 PM - info: Received socket connection.
+4:42:57 PM - info: Received socket connection.
+4:42:57 PM - info: Received socket connection.
+4:42:57 PM - info: Received socket connection.
+4:42:57 PM - info: Received socket connection.
+4:42:57 PM - info: Received socket connection.
+4:42:57 PM - info: Received socket connection.
+4:42:57 PM - info: Received socket connection.
+4:42:58 PM - info: Received socket connection.
+4:42:58 PM - info: Received socket connection.
+4:42:58 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:44:23 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:14 PM - info: Received socket connection.
+4:46:45 PM - info: Running scheduled checks
+4:46:45 PM - info: Running Website check Western Union GCC.
+4:46:45 PM - info: Running Website check Campaign Details.
+4:46:45 PM - info: Running Website check Delivery URL.
+4:46:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 706ms.
+4:46:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 980ms.
+4:46:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 980ms.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:47:11 PM - info: Received socket connection.
+4:48:35 PM - info: Received socket connection.
+4:48:35 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:48:36 PM - info: Received socket connection.
+4:50:24 PM - info: Received socket connection.
+4:50:24 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:21 PM - info: Received socket connection.
+4:51:53 PM - info: Received socket connection.
+4:51:53 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:47 PM - info: Received socket connection.
+4:53:48 PM - info: Received socket connection.
+4:53:48 PM - info: Received socket connection.
+4:53:48 PM - info: Received socket connection.
+4:56:45 PM - info: Running scheduled checks
+4:56:45 PM - info: Running Website check Western Union GCC.
+4:56:45 PM - info: Running Website check Campaign Details.
+4:56:45 PM - info: Running Website check Delivery URL.
+4:56:47 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1463ms.
+4:56:47 PM - info: Called Campaign Details check.  Response code 200.  Response time 1467ms.
+4:56:47 PM - info: Called Delivery URL check.  Response code 200.  Response time 1472ms.
+4:57:24 PM - info: Received socket connection.
+4:57:24 PM - info: Received socket connection.
+4:57:24 PM - info: Received socket connection.
+4:57:24 PM - info: Received socket connection.
+4:57:24 PM - info: Received socket connection.
+4:57:24 PM - info: Received socket connection.
+4:57:24 PM - info: Received socket connection.
+4:57:24 PM - info: Received socket connection.
+4:57:55 PM - info: Received socket connection.
+4:57:56 PM - info: Received socket connection.
+4:57:56 PM - info: Received socket connection.
+4:57:56 PM - info: Received socket connection.
+4:57:56 PM - info: Received socket connection.
+5:06:45 PM - info: Running scheduled checks
+5:06:45 PM - info: Running Website check Western Union GCC.
+5:06:45 PM - info: Running Website check Campaign Details.
+5:06:45 PM - info: Running Website check Delivery URL.
+5:06:46 PM - info: Called Campaign Details check.  Response code 200.  Response time 701ms.
+5:06:46 PM - info: Called Delivery URL check.  Response code 200.  Response time 700ms.
+5:06:46 PM - info: Called Western Union GCC check.  Response code 200.  Response time 703ms.
+5:16:45 PM - info: Running scheduled checks
+5:16:45 PM - info: Running Website check Western Union GCC.
+5:16:45 PM - info: Running Website check Campaign Details.
+5:16:45 PM - info: Running Website check Delivery URL.
+5:16:47 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1713ms.
+5:16:47 PM - info: Called Delivery URL check.  Response code 200.  Response time 1718ms.
+5:16:47 PM - info: Called Campaign Details check.  Response code 200.  Response time 1719ms.
+6:01:35 PM - info: Running scheduled checks
+6:01:35 PM - info: Running Website check Western Union GCC.
+6:01:35 PM - info: Running Website check Campaign Details.
+6:01:35 PM - info: Running Website check Delivery URL.
+6:01:36 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1227ms.
+6:01:40 PM - info: Called Delivery URL check.  Response code 200.  Response time 4625ms.
+6:01:40 PM - info: Called Campaign Details check.  Response code 200.  Response time 4634ms.
+6:11:35 PM - info: Running scheduled checks
+6:11:35 PM - info: Running Website check Western Union GCC.
+6:11:35 PM - info: Running Website check Campaign Details.
+6:11:35 PM - info: Running Website check Delivery URL.
+6:11:36 PM - info: Called Western Union GCC check.  Response code 200.  Response time 714ms.
+6:11:36 PM - info: Called Campaign Details check.  Response code 200.  Response time 713ms.
+6:11:36 PM - info: Called Delivery URL check.  Response code 200.  Response time 713ms.
+6:21:35 PM - info: Running scheduled checks
+6:21:35 PM - info: Running Website check Western Union GCC.
+6:21:35 PM - info: Running Website check Campaign Details.
+6:21:35 PM - info: Running Website check Delivery URL.
+6:21:36 PM - info: Called Campaign Details check.  Response code 200.  Response time 1044ms.
+6:21:36 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1051ms.
+6:21:36 PM - info: Called Delivery URL check.  Response code 200.  Response time 1046ms.
+6:31:35 PM - info: Running scheduled checks
+6:31:35 PM - info: Running Website check Western Union GCC.
+6:31:35 PM - info: Running Website check Campaign Details.
+6:31:35 PM - info: Running Website check Delivery URL.
+6:31:36 PM - info: Called Western Union GCC check.  Response code 200.  Response time 806ms.
+6:31:36 PM - info: Called Delivery URL check.  Response code 200.  Response time 806ms.
+6:31:37 PM - info: Called Campaign Details check.  Response code 200.  Response time 1522ms.
+6:41:35 PM - info: Running scheduled checks
+6:41:35 PM - info: Running Website check Western Union GCC.
+6:41:35 PM - info: Running Website check Campaign Details.
+6:41:35 PM - info: Running Website check Delivery URL.
+6:41:36 PM - info: Called Western Union GCC check.  Response code 200.  Response time 870ms.
+6:41:36 PM - info: Called Delivery URL check.  Response code 200.  Response time 868ms.
+6:41:36 PM - info: Called Campaign Details check.  Response code 200.  Response time 869ms.
+6:51:35 PM - info: Running scheduled checks
+6:51:35 PM - info: Running Website check Western Union GCC.
+6:51:35 PM - info: Running Website check Campaign Details.
+6:51:35 PM - info: Running Website check Delivery URL.
+6:51:36 PM - info: Called Delivery URL check.  Response code 200.  Response time 783ms.
+6:51:36 PM - info: Called Campaign Details check.  Response code 200.  Response time 785ms.
+6:51:36 PM - info: Called Western Union GCC check.  Response code 200.  Response time 1349ms.
+8:09:37 PM - info: Running scheduled checks
+8:09:37 PM - info: Running Website check Western Union GCC.
+8:09:37 PM - info: Running Website check Campaign Details.
+8:09:37 PM - info: Running Website check Delivery URL.
+8:09:38 PM - info: Called Delivery URL check.  Response code 200.  Response time 1228ms.
+8:09:38 PM - info: Called Campaign Details check.  Response code 200.  Response time 1230ms.
+8:09:42 PM - info: Called Western Union GCC check.  Response code 200.  Response time 5156ms.

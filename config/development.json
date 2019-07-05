@@ -1,0 +1,78 @@
+{
+  "healthcheck": {
+    "options": {
+      "port": 5251,
+      "appLogFolder": "devlog",
+      "appLogName": "dev",
+      "resultLogFolder": "devresults",
+      "resultLogName": "dev",
+      "menutitle": "Application Healthcheck",
+      "footertext": "Designed and built by... Lister Digital"
+    },
+    "dashboardConfig": {
+      "dashboardTitle": "Western Union Healthcheck Dashboard",
+      "dashboardSubTitle" : "Monitoring services for Westernunion"
+    },
+    "appLandscapes":[
+      {
+        "key":0,
+        "name":"Website Healthcheck",
+        "layoutElements": {
+          "title": "Website Healthcheck",
+          "subtitle": "Monitoring Website Healthcheck"
+        },
+        "itemsToCheck" : [0]
+      },
+      {
+        "key":1,
+        "name":"API Endpoints Healthcheck",
+        "layoutElements": {
+          "title": "API Endpoints Healthcheck",
+          "subtitle": "Monitoring API Endpoints Healthcheck"
+        },
+        "itemsToCheck" : [1, 2]
+      }
+      // {
+      //   "key":2,
+      //   "name":"Some Other",
+      //   "layoutElements": {
+      //     "title": "Some Other",
+      //     "subtitle": "Some Other Area for issues"
+      //   },
+      //   "itemsToCheck" : [4, 1, 7, 6]
+      // }
+    ],
+    "items" : [
+      {
+        "key":0,
+        "name": "Western Union GCC",
+        "description": "Western Union GCC Calendar",
+        "checkType": "website",
+        "url": "https://wu.greyferret.com",
+        "expectedResponseCode": 200,
+        "expectedResponseTime": 5000
+      },
+      {
+        "key":1,
+        "name": "Campaign Details",
+        "description": "Campaign Details Endpoint",
+        "checkType": "website",
+        "url": "https://gateway.greyferret.com/sms/wu-sms-status/healthcheck",
+        "expectedResponseCode": 200,
+        "expectedResponseTime": 5000
+      },
+      {
+        "key":2,
+        "name": "Delivery URL",
+        "description": "Vertex Delivery URL",
+        "checkType": "website",
+        "url": "https://gateway.greyferret.com/sms/wu-sms-status/healthcheck",
+        "expectedResponseCode": 200,
+        "expectedResponseTime": 5000
+      }
+    ]
+  }
+}
+
+
+
